@@ -1,0 +1,6 @@
+{
+  "dataset_kind": "synthetic_demo",
+  "seed": 2025,
+  "generator": "scripts/generate_demo.py",
+  "contains_original_market_data": false
+}

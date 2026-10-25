@@ -1,0 +1,30 @@
+[
+  {
+    "pair": "USDJPY",
+    "rebuilt_rows": 9143,
+    "overlap": 9143,
+    "max_abs_diff": 1.1492543028346347e-16,
+    "within_1e-10": true
+  },
+  {
+    "pair": "EURUSD",
+    "rebuilt_rows": 9141,
+    "overlap": 9141,
+    "max_abs_diff": 1.2620113287731272e-16,
+    "within_1e-10": true
+  },
+  {
+    "pair": "EURJPY",
+    "rebuilt_rows": 9074,
+    "overlap": 9074,
+    "max_abs_diff": 1.0148132334464322e-16,
+    "within_1e-10": true
+  },
+  {
+    "pair": "JPYCNY",
+    "rebuilt_rows": 8350,
+    "overlap": 8350,
+    "max_abs_diff": 1.9890773056419064e-15,
+    "within_1e-10": true
+  }
+]

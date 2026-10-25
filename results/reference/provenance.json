@@ -1,0 +1,11 @@
+{
+  "run_date": "2026-10-25",
+  "dataset_kind": "original_data_local_reconstruction",
+  "raw_inputs_in_repository": false,
+  "source_hashes": {
+    "FX surf.zip": "c42eaeb25879ad5ce6a6ad499bd824575e96b936307d4f6128f352e01133fddb",
+    "Textbook(2).pdf": "d9e3b574ab0fbf6208a659a64458876d241c133385ded0f36f9bc6f34f3595d4"
+  },
+  "code_version": "modular upload preparation; see docs/PROVENANCE.md",
+  "environment": "Python 3.12; pinned versions in requirements.txt"
+}

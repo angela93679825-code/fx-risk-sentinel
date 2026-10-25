@@ -1,0 +1,39 @@
+{
+  "standard": {
+    "annualized_return_arithmetic": 0.04355142747193578,
+    "annualized_volatility": 0.08280883542849597,
+    "sharpe": 0.2240271509186314,
+    "test_rows": 430,
+    "optimizer_failures": 0
+  },
+  "risk_filtered": {
+    "annualized_return_arithmetic": 0.04355142747193578,
+    "annualized_volatility": 0.08280883542849597,
+    "sharpe": 0.2240271509186314,
+    "test_rows": 430,
+    "optimizer_failures": 0
+  },
+  "risk_bounds": {
+    "USDJPY": [
+      0.0,
+      1.0
+    ],
+    "EURUSD": [
+      0.0,
+      1.0
+    ],
+    "EURJPY": [
+      0.0,
+      1.0
+    ],
+    "USDCNH": [
+      0.0,
+      1.0
+    ],
+    "JPYCNY": [
+      0.0,
+      1.0
+    ]
+  },
+  "risk_gate_triggered": false
+}
