@@ -1,0 +1,9 @@
+data/private/
+artifacts/
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+*.xlsx
+*.xls
+*.zip
